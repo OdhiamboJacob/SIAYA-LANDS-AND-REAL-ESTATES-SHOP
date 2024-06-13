@@ -1,5 +1,5 @@
 body{
-  background-image: url(./Media/beachfront.jpg);
+  background-image: url(./media/beachfront.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment:fixed !important;
@@ -92,7 +92,7 @@ h1{
   margin: 10px;
   margin-left: -10px;
 }
-#menu ul li:hover .sub1 ul li{
+#menu ul li:hover .sub1 ul li {
   width: 130px;
   padding: 10px;
   border-bottom: 1px dotted black;
@@ -101,6 +101,7 @@ h1{
   text-align: left;
   color: blue;
 }
+
 /*section X0*/
 #log1{
   width: 280px !important;
