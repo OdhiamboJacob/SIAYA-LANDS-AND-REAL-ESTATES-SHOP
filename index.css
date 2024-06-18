@@ -326,3 +326,13 @@ display: block;
   transform-style: preserve-3d;
   border-radius: 20px !important;
 }
+
+/*Training*/
+.cardx{
+  background-color:white;
+  height: 550px;
+}
+.cardx .card-header{
+  font-weight: bold;
+  
+}
